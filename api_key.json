@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hackmercedv",
+  "private_key_id": "11a829ea0d67f8ae71e04405b7b3632e450686c4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1goJh+Hjc3OmW\nJfiMyYp6tn4gsxQ64CbTZSCNvKu5kJPHViTZ5/2N2xZbK7kSQCrJ7y+olQdClY3j\n9rz9CsndyjgbFK3Wa+NvK0tIvirHM0wUEeXJ4nfHxRFo52PUJsizq7+5MdBOP2uj\nOi3uhKkQOBqUuUU64KaJ7rmr9w+9t/Vgycjw2cGl8tqE90NVNm/THzwqSHf8mr3D\n2yqKf9EbQYWBZrY75jVb+junXsDoNEjTty8PY9/2Ezg2nOp8wlDyxFTDgQoctHZx\n6u/q+LfkiM3oe8UOnWNWjltLvqsIQQ7ysquXXWsaWlEfKwuayWDwH2zMqILqQ0Bz\nsXibbuy1AgMBAAECggEACSnxZLpbecUieuzoV01Ok0L267Y22YEbHLWglt9VaS06\nNMht3F2I0Npkjs5OjfQU5PSROqjpgKxVyVJZ+MmMZwjwW7enzilMxn5QUvgc50k4\n+FNt/0sSgpC5wArcoKejnuSXLaWs72Jm0AseKgpjEblPaD5RVzdj2RdnIt46mnij\nIjRSQP/MwUjafQr1xsxdQUB91xzylYKkvKPEdnl28gg4kuYbVvJ9qwn+Z162mq1C\nCTarGq1T4B5zGiu9NT4kfYsNaaq5GlKwx+9Emdy6YTaR6rM2EkuYrmodAnpMC/CV\nyK0d4x2L3e9SABi64++N1SYinqTcM57GFKfWyMPYkQKBgQDc9mAf4Fd0+k9XFrNM\n4mid6qIMWtfyP24pyAZnHPizOl7WSyOg+wYoqq4QgkDLmGYojjoBZcEOwNJlURz3\nrwT3sELC7C4JCCuu/XcMcY2qFy2QRJM30fbFw+eH2cmAbzNmgMTHMYSRbv7XGsYd\nkunpBh8sv07Ezo42E4FtxvFXxQKBgQDSSp3tb3BFlaNCmihux0gjhnD+Zq1DLySN\nE2jSzk4BCe/jI0Dq44ppJevTw/Mnq058nY9CLYT8nffxY/lt/5jjmnkjw7NFZRfU\nTt26kufac7UE8gYCR19+kNR7AOU+2cOAE3eqPGGueoqUvF0dy1WwdM5sDe6xZtEN\nb/VIsvqgMQKBgAzmTUJPJIvtuQgKiTkp1pWxhvhVrVm1HkdOKCGI7XP5KmQ0SsYx\nIXDqVfMcx4+bPAuOEhDW0eh8lUvY6moDS7TyE1Ox2hYo5fP3VCXj0zNk2wIbHsUZ\neuCcyT2DF2JqG4QWbGZ8m5Kp+jKwm3RKiWFTPCqumHig3miFxv6TqK9JAoGAHIJ7\nOLZz/SsVUDFALAyebhqK9SKMeOBKT0oDWxkXIDLtr9iWs4GXwTuf5jzZmVYzNNfT\nlUBAmFL+S16ncU9Gtgy6QawFgPH8sg7jJqlF/6rSLtJ1GBf/DVSrSeXMLqItTA7X\nmV/ISnRYl2OWKDTp8BtV5PZalvh+fRjhozKIofECgYAz9ymIGHG/F4bWV4Z053Oi\n5FpGBr1iWRXDxr91q6tkH/65yuyDkvsbdzuj3TDclT3R33ClBCslmLrXhYR4PNc9\nzw0sUZy+QU5cO7xpxWasE+UeIcHIDmuS1mcvutCgjsoKUpkm2xCclqKbgZWCoCnO\nUEiE1LfytlVZu4v3Fd+CBQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackmercedv-service-account@hackmercedv.iam.gserviceaccount.com",
+  "client_id": "109067067638999173928",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackmercedv-service-account%40hackmercedv.iam.gserviceaccount.com"
+}
